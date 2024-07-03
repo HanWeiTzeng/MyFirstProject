@@ -6,11 +6,7 @@ int main() {
     char strB[3]; //= "test";
     const char *strC = "test";
 
-
     strcpy(strB, strA);
-
-    //strB = strC;
-
 
     printf(strB);
 
